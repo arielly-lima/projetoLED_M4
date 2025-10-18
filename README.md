@@ -7,7 +7,7 @@ Este repositório refere-se à atividade ponderada de programação da semana 1 
   <sub><div align="center">Figura 1 - Código do blink do LED.</div></sub>
   
   <sub>Fonte: Material produzido pelo autor, 2025.</sub> <br>
-Nesse código, o led interno `LED_BUILTIN`, é aceso por 100 milissegundos e depois apagado pelo mesmo período de tempo.
+Nesse código, o led interno `LED_BUILTIN`, é aceso por 2000 milissegundos e depois apagado pelo mesmo período de tempo.
 [Link para vídeo e imagem do led interno](https://drive.google.com/drive/folders/1OSJjzZLS8G4sfNer3dqisELsRD68Yjb2?usp=sharing)
 
 ### Parte 2 - Simulando Blink Externo:

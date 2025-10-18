@@ -12,7 +12,7 @@ Nesse código, o led interno `LED_BUILTIN`, é aceso por 2000 milissegundos e de
 
 ### Parte 2 - Simulando Blink Externo:
 - Nessa parte foi feita simulação do blink de forma externa, utilizando **TinkerCad**, semelhante a um pisca-pisca, utilizando:
-- Protoboard, ligações elétricas, LED, resistor de 20mA e um Arduino;
+- Protoboard, ligações elétricas, LED, resistor de 1mA e um Arduino;
 - Além disso, foi utilizado o seguinte código c++:
 ```` cpp
 void setup() {

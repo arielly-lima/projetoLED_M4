@@ -22,12 +22,12 @@ void setup() {
 
 void loop() {
   digitalWrite(13, HIGH);
-  delay(100);
+  delay(500);
   digitalWrite(13, LOW);
-  delay(100);
+  delay(500);
 
 }
 ````
 
 - No código acima, a função `setup` define a porta 13 como a saída (`pinMode(13, OUTPUT)`) e a função `loop` cria um loop que liga o led em `digitalWrite(13, HIGH)`;<br>
-[Link para acesso ao projeto no TinkerCad](https://www.tinkercad.com/things/3iInqdllUyL/editel?returnTo=%2Fdashboard%2Fdesigns%2F3d&sharecode=Z5vHRsXItAIUyLFL8H6Gg880Zd7o0o54w3n9KR1cjro)
+[Link para acesso ao projeto no TinkerCad](https://www.tinkercad.com/things/3iInqdllUyL-ledp1?sharecode=XkAye50sTWBqMFNhLE-rZPvaXoLsAuVMpmWz-Ncu5dE)
